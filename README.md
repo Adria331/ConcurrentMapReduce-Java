@@ -9,7 +9,7 @@ To compile:
 `$ javac -cp guava-20.0-hal.jar:. *.java` 
 
 To execute:
-`java -cp guava-20.0-hal.jar:. WordCount ./Test/ ./Output/`
+`$ java -cp guava-20.0-hal.jar:. WordCount ./Test/ ./Output/`
 
 
 
