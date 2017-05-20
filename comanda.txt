@@ -1,0 +1,2 @@
+javac -cp guava-20.0-hal.jar:. *.java
+java -cp guava-20.0-hal.jar:. WordCount ./Test/ ./Output/
